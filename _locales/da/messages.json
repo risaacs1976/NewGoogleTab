@@ -1,15 +1,15 @@
 {
     "extName": {
-        "message": "New Google Tab",
+        "message": "Ny Google fane",
         "description": "The title of the extension, displayed in the web store."
 
     },
     "extDesc": {
-        "message": "Get Google back as your new tab page.",
+        "message": "Få Google tilbage som ny fane side.",
         "description":"The description of the extension, displayed in the web store."
     },
     "tabTitle": {
-        "message": "New Google Tab",
+        "message": "Ny Google fane",
         "description":"New tab page title."
     }
 }
